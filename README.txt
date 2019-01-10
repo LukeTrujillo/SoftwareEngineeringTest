@@ -1,2 +1,3 @@
 Hello everyone!
-IM MAKING A CHANGE
+Clone URL:
+https://github.com/LukeTrujillo/SoftwareEngineeringTest.git
