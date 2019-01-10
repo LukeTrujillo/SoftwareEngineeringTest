@@ -1,5 +1,6 @@
 public class teamlist {
     public void main(String args[]) {
-        System.out.println("Luke Trujillo");
+        for(String s : args) {
+        	println(s);
     }
 }
